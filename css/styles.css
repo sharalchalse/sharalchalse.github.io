@@ -1,0 +1,196 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 2px;
+
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem  ;
+  color: #66BFBF;
+
+
+}
+
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+    color: #66BFBF;
+
+}
+.navbar-brand{
+  color:#fff;
+}
+
+.navbar{
+  background-color: #BCE6EB;
+}
+.nav-link{
+  font-size: 1.2rem;
+  color: #fff;
+
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.nav{
+  background-color: #66BFBF;
+  margin-left: 4%;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 40px;
+}
+hr{
+
+    border-style: none;
+  border-style: dotted;
+  color: #dddddd;
+  border-width: 10px;
+  width: 5%;
+  border-top: 0px;
+  width: 0;
+  margin-bottom: 100px;
+  margin-top: 100px;
+
+
+  width:70px;
+
+
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.code-img{
+  width: 25%;
+  float:left;
+  margin: auto 30px auto auto;
+}
+.space-img{
+  width: 25%;
+  float:right;
+  margin: auto 30px auto auto;
+
+}
+
+.badminton-img{
+  width: 25%;
+  float:right;
+    margin: auto 30px auto auto;
+
+}
+.codes-img{
+  width: 25%;
+  float:left;
+  margin: auto 30px auto auto;
+
+
+}
+a{
+  text-decoration: none;
+  color: #66BFBF;
+}
+.btn{
+  color: white;
+  background: #66BFBF;
+  text-decoration: none;
+  border-radius: 34px;
+  border: solid #66BFBF 19px;
+}
+
+
+
+.mountain{
+  margin:auto auto 80px auto;
+}
+
+
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+      bottom: 480px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  margin-bottom: 300px;
+  right: 300px;
+  top: 100px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+
+
+
+
+.footer-link{
+color: #11999E;
+margin-left: 80px;
+font-family: 'Dela Gothic One', cursive;
+font-size: 20px;
+text-decoration: none;
+
+}
+.bottom-container{
+  background-color:   #bce6eb;
+  height: 180px;
+  padding-top: 50px;
+      margin-top: 70px;
+}
+.pl{
+  color: #EAF6F6;
+  margin-top:40px;
+}
+.btm{
+margin-bottom: 70px;
+
+}
+.me{
+      padding-top: 70px;
+}
+.hello{
+  width: 30%;
+  line-height: 2;
+  margin: auto;
+}
+.top-container {
+  background-color: #bce6eb;
+  position: relative;
+  padding-top: 100px;
+}
+.topmost-container{
+  background-color: #bce6eb;
+text-align:right;
+padding-top: 40px;
+
+}
+.im{
+      margin-top: 80px;
+      padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+.r-top{
+  text-decoration: none;
+  font-family: 'Dela Gothic One', cursive;
+color: #11999E;
+    margin-right: 70px;
+
+
+}
